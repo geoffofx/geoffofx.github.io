@@ -1,5 +1,3 @@
-import React from 'react';
-import './att.css';
 import { useState } from 'react';
 
 const scriptURL = 'https://script.google.com/macros/s/AKfycbzTW-texocnc3BdLC02ZmED9Z1wuKBnRroHLNoWTF4IP2Bi8zFHJmmJHxd0zUUu1iFslw/exec';
